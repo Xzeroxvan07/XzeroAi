@@ -44,12 +44,12 @@ Bot akan mulai berjalan dan merespons pesan
 
 Fitur Bot:
 
-Mampu berkomunikasi dalam berbagai bahasa
-Memproses pesan suara (voice notes)
-Memberikan respons dengan teks atau suara
-Mempertahankan konteks percakapan
-Menggunakan GPT-4 untuk respons cerdas
-Menangani berbagai jenis pertanyaan dan tugas
+• Mampu berkomunikasi dalam berbagai bahasa
+• Memproses pesan suara (voice notes)
+• Memberikan respons dengan teks atau suara
+• Mempertahankan konteks percakapan
+• Menggunakan GPT-4 untuk respons cerdas
+• Menangani berbagai jenis pertanyaan dan tugas
 
 Keamanan:
 
